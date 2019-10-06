@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.tzhh.hello.spring.cloud.service.admin.dao.MsuserMapper">
+  <resultMap id="BaseResultMap" type="com.tzhh.hello.spring.cloud.service.admin.entity.Msuser">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="id" jdbcType="TINYINT" property="id" />
+    <result column="name" jdbcType="VARCHAR" property="name" />
+    <result column="sex" jdbcType="INTEGER" property="sex" />
+    <result column="pwd" jdbcType="VARCHAR" property="pwd" />
+  </resultMap>
+</mapper>

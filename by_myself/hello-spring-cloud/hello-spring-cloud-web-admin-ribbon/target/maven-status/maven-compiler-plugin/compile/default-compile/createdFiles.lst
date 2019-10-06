@@ -1,0 +1,4 @@
+com\tzhh\hello\spring\cloud\web\admin\ribbon\config\RestTemplateConfiguration.class
+com\tzhh\hello\spring\cloud\web\admin\ribbon\controller\AdminController.class
+com\tzhh\hello\spring\cloud\web\admin\ribbon\service\AdminService.class
+com\tzhh\hello\spring\cloud\web\admin\ribbon\WebAdminRibbon.class
