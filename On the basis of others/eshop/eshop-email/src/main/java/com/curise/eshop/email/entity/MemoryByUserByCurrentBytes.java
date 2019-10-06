@@ -1,0 +1,44 @@
+package com.curise.eshop.email.entity;
+
+import java.math.BigDecimal;
+import com.baomidou.mybatisplus.annotation.TableField;
+import java.io.Serializable;
+import lombok.Data;
+import lombok.EqualsAndHashCode;
+import lombok.experimental.Accessors;
+
+/**
+ * <p>
+ * VIEW
+ * </p>
+ *
+ * @author TZHH
+ * @since 2019-10-06
+ */
+@Data
+@EqualsAndHashCode(callSuper = false)
+@Accessors(chain = true)
+public class MemoryByUserByCurrentBytes implements Serializable {
+
+    private static final long serialVersionUID = 1L;
+
+    @TableField("user")
+    private String user;
+
+    @TableField("current_count_used")
+    private BigDecimal currentCountUsed;
+
+    @TableField("current_allocated")
+    private String currentAllocated;
+
+    @TableField("current_avg_alloc")
+    private String currentAvgAlloc;
+
+    @TableField("current_max_alloc")
+    private String currentMaxAlloc;
+
+    @TableField("total_allocated")
+    private String totalAllocated;
+
+
+}

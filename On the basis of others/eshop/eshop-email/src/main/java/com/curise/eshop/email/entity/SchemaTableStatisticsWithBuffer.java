@@ -1,0 +1,101 @@
+package com.curise.eshop.email.entity;
+
+import java.math.BigDecimal;
+import com.baomidou.mybatisplus.annotation.TableField;
+import java.io.Serializable;
+import lombok.Data;
+import lombok.EqualsAndHashCode;
+import lombok.experimental.Accessors;
+
+/**
+ * <p>
+ * VIEW
+ * </p>
+ *
+ * @author TZHH
+ * @since 2019-10-06
+ */
+@Data
+@EqualsAndHashCode(callSuper = false)
+@Accessors(chain = true)
+public class SchemaTableStatisticsWithBuffer implements Serializable {
+
+    private static final long serialVersionUID = 1L;
+
+    @TableField("table_schema")
+    private String tableSchema;
+
+    @TableField("table_name")
+    private String tableName;
+
+    @TableField("rows_fetched")
+    private Long rowsFetched;
+
+    @TableField("fetch_latency")
+    private String fetchLatency;
+
+    @TableField("rows_inserted")
+    private Long rowsInserted;
+
+    @TableField("insert_latency")
+    private String insertLatency;
+
+    @TableField("rows_updated")
+    private Long rowsUpdated;
+
+    @TableField("update_latency")
+    private String updateLatency;
+
+    @TableField("rows_deleted")
+    private Long rowsDeleted;
+
+    @TableField("delete_latency")
+    private String deleteLatency;
+
+    @TableField("io_read_requests")
+    private BigDecimal ioReadRequests;
+
+    @TableField("io_read")
+    private String ioRead;
+
+    @TableField("io_read_latency")
+    private String ioReadLatency;
+
+    @TableField("io_write_requests")
+    private BigDecimal ioWriteRequests;
+
+    @TableField("io_write")
+    private String ioWrite;
+
+    @TableField("io_write_latency")
+    private String ioWriteLatency;
+
+    @TableField("io_misc_requests")
+    private BigDecimal ioMiscRequests;
+
+    @TableField("io_misc_latency")
+    private String ioMiscLatency;
+
+    @TableField("innodb_buffer_allocated")
+    private String innodbBufferAllocated;
+
+    @TableField("innodb_buffer_data")
+    private String innodbBufferData;
+
+    @TableField("innodb_buffer_free")
+    private String innodbBufferFree;
+
+    @TableField("innodb_buffer_pages")
+    private Long innodbBufferPages;
+
+    @TableField("innodb_buffer_pages_hashed")
+    private Long innodbBufferPagesHashed;
+
+    @TableField("innodb_buffer_pages_old")
+    private Long innodbBufferPagesOld;
+
+    @TableField("innodb_buffer_rows_cached")
+    private BigDecimal innodbBufferRowsCached;
+
+
+}
