@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-1009.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-1009.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-advertisement/spring-cloud-advertisement.iml" filepath="$PROJECT_DIR$/spring-cloud-advertisement/spring-cloud-advertisement.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-dependencies/spring-cloud-dependencies.iml" filepath="$PROJECT_DIR$/spring-cloud-dependencies/spring-cloud-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-service/spring-cloud-service.iml" filepath="$PROJECT_DIR$/spring-cloud-service/spring-cloud-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-server/spring-security-server.iml" filepath="$PROJECT_DIR$/spring-security-server/spring-security-server.iml" />
     </modules>
   </component>

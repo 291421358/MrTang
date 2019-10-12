@@ -3,6 +3,7 @@ package com.tzh.spring.security.server;
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 /**
  * @author Administrator
@@ -15,6 +16,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 @SpringBootApplication
 @MapperScan("com.tzh.spring.security.server.mapper")
+@EnableEurekaClient
 public class SecurityServerApplication {
     public static void main(String[] args) {
         SpringApplication.run(SecurityServerApplication.class ,args);

@@ -8,13 +8,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-advertisement" />
+        <module name="spring-cloud-eureka" />
+        <module name="spring-cloud-service" />
+        <module name="spring-cloud-zuul" />
         <module name="spring-security-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-cloud-1009" target="1.8" />
       <module name="spring-cloud-advertisement" target="1.8" />
-      <module name="spring-cloud-dependencies" target="1.5" />
+      <module name="spring-cloud-dependencies" target="1.8" />
+      <module name="spring-cloud-eureka" target="1.8" />
+      <module name="spring-cloud-service" target="1.8" />
+      <module name="spring-cloud-zuul" target="1.8" />
       <module name="spring-security-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>

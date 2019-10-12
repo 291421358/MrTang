@@ -19,6 +19,9 @@
         <module>spring-cloud-dependencies</module>
         <module>spring-security-server</module>
         <module>spring-cloud-advertisement</module>
+        <module>spring-cloud-eureka</module>
+        <module>spring-cloud-zuul</module>
+        <module>spring-cloud-service</module>
         <!-- 工程模块请随着项目的不断完善自行添加 -->
     </modules>
 
@@ -36,7 +39,6 @@
             <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
         </license>
     </licenses>
-
 
     <dependencyManagement>
         <dependencies>

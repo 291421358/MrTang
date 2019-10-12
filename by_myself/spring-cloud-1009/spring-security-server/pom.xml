@@ -11,24 +11,17 @@
 
     <artifactId>spring-security-server</artifactId>
 
-    <licenses>
-        <license>
-            <name>Apache 2.0</name>
-            <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-    </licenses>
-
 
     <dependencies>
-        <dependency>
-            <groupId>org.apache.httpcomponents</groupId>
-            <artifactId>httpclient</artifactId>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
-        <dependency>
-            <groupId>com.alibaba</groupId>
-            <artifactId>fastjson</artifactId>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.apache.httpcomponents</groupId>-->
+            <!--<artifactId>httpclient</artifactId>-->
+        <!--</dependency>-->
+        <!--&lt;!&ndash; https://mvnrepository.com/artifact/com.alibaba/fastjson &ndash;&gt;-->
+        <!--<dependency>-->
+            <!--<groupId>com.alibaba</groupId>-->
+            <!--<artifactId>fastjson</artifactId>-->
+        <!--</dependency>-->
 
         <!--redis-->
         <dependency>
@@ -78,6 +71,12 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-oauth2</artifactId>
+        </dependency>
+
+        <!--Spring Cloud-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
         </dependency>
     </dependencies>
 
