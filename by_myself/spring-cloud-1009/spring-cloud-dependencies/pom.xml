@@ -35,11 +35,25 @@
 
     <dependencyManagement>
         <dependencies>
+            <!--hystrix-->
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-starter-netflix-hystrix-dashboard</artifactId>
+                <version>${cloud.version}</version>
+            </dependency>
+            <!--openfeign-->
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-starter-openfeign</artifactId>
+                <version>${cloud.version}</version>
+            </dependency>
+            <!--zuul-->
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-starter-netflix-zuul</artifactId>
                 <version>${cloud.version}</version>
             </dependency>
+            <!--eureka-->
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>

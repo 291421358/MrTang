@@ -12,6 +12,8 @@
       <sourceFolder url="file://$MODULE_DIR$/spring-cloud-zuul/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/spring-cloud-service/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/spring-cloud-service/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-feign/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-feign/src/main/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

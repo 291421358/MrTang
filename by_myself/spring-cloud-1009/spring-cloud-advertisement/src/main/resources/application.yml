@@ -1,6 +1,6 @@
 spring:
   application:
-    name: spring-security-advertisement
+    name: spring-cloud-advertisement
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
     driver-class-name: com.mysql.cj.jdbc.Driver

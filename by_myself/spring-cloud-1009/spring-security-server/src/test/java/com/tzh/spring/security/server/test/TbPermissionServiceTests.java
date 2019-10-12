@@ -42,8 +42,8 @@ public class TbPermissionServiceTests {
     public void testSelectByUser() {
         System.err.println("begin");
 //        tbPermissionMapper.selectAll().forEach(tbPermission -> System.out.println(tbPermission + "111"));
-        List<TbPermission> tbPermissions = tbPermissionMapper.selectByUserId(37L);
-        System.err.println(tbPermissions.size());
-        tbPermissions.forEach(tbPermission -> System.out.println(tbPermission));
+//        List<TbPermission> tbPermissions = tbPermissionMapper.selectByUserId(37L);
+//        System.err.println(tbPermissions.size());
+//        tbPermissions.forEach(tbPermission -> System.out.println(tbPermission));
     }
 }

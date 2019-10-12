@@ -1,6 +1,6 @@
 spring:
   application:
-    name: security-server
+    name: spring-security-server
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
     driver-class-name: com.mysql.cj.jdbc.Driver
