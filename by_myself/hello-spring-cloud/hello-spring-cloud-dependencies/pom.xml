@@ -15,7 +15,6 @@
     <packaging>pom</packaging>
 
     <name>hello-spring-cloud-dependencies</name>
-    <url>http://www.funtl.com</url>
     <inceptionYear>2018-Now</inceptionYear>
 
     <properties>
@@ -36,6 +35,12 @@
                 <version>${spring-cloud.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
+            </dependency>
+
+            <dependency>
+                <groupId>mysql</groupId>
+                <artifactId>mysql-connector-java</artifactId>
+                <version>${mysql.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

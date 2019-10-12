@@ -16,9 +16,11 @@
         <option value="$PROJECT_DIR$/hello-spring-cloud-service-admin/pom.xml" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/pom.xml" />
-        <option value="$PROJECT_DIR$/hello-spring-cloud-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/hello-fegin-auth/pom.xml" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-config/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-security/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
