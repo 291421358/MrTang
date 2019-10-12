@@ -324,7 +324,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="y" value="326" />
     <option name="width" value="2576" />
@@ -554,7 +554,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570900147655" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/spring-security-server/src/test/java/com.tzhh.spring.security.server.test" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sping-cloud-service/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -680,13 +680,13 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.AdvertisementApplication" />
+      <item itemvalue="Spring Boot.ZuulApplication" />
+      <item itemvalue="Spring Boot.ServiceApplication" />
       <item itemvalue="Spring Boot.SecurityServerApplication" />
       <item itemvalue="JUnit.TbPermissionServiceTests.testSelectByUser (1)" />
       <item itemvalue="Application.PasswordEncoder (1)" />
       <item itemvalue="JUnit.TbPermissionServiceTests" />
       <item itemvalue="Spring Boot.EurekaApplication" />
-      <item itemvalue="Spring Boot.ZuulApplication" />
-      <item itemvalue="Spring Boot.ServiceApplication" />
     </list>
     <recent_temporary>
       <list>
