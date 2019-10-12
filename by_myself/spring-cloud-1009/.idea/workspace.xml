@@ -2,57 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ac4671b-5ac4-49ae-9f83-a71d8b02eaf5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/src/main/java/com/tzh/spring/cloud/feign/FeignApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/src/main/java/com/tzh/spring/cloud/feign/config/EnableHystrixDashboardConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/src/main/java/com/tzh/spring/cloud/feign/controller/AdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/src/main/java/com/tzh/spring/cloud/feign/service/AdminService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/src/main/java/com/tzh/spring/cloud/feign/service/hystrix/AdminServiceHytrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-feign/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hello-spring-cloud/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-spring-cloud/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/spring-cloud-1009.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/spring-cloud-1009.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-advertisement/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-advertisement/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-advertisement/target/spring-cloud-advertisement-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-advertisement/target/spring-cloud-advertisement-1.0.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-advertisement/target/spring-cloud-advertisement-1.0.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-advertisement/target/spring-cloud-advertisement-1.0.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-dependencies/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-dependencies/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-zuul/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-zuul/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-server/src/mian/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-server/src/mian/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-server/src/test/java/com/tzh/spring/security/server/test/TbPermissionServiceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-server/src/test/java/com/tzh/spring/security/server/test/TbPermissionServiceTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-server/target/spring-security-server-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-server/target/spring-security-server-1.0.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-server/target/spring-security-server-1.0.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-server/target/spring-security-server-1.0.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-server/target/test-classes/com/tzh/spring/security/server/test/PasswordEncoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-server/target/test-classes/com/tzh/spring/security/server/test/PasswordEncoder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-server/target/test-classes/com/tzh/spring/security/server/test/TbPermissionServiceTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-server/target/test-classes/com/tzh/spring/security/server/test/TbPermissionServiceTests.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-cloud-dependencies/target/" />
@@ -637,32 +589,6 @@
               <item name="spring-cloud-1009" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-1009" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spring-cloud-1009" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-1009" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-1009" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-1009" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-1009" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-1009" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mian" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-1009" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-1009" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mian" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -678,7 +604,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/用户/code/spring-cloud-1009/spring-security-server/src/mian/java/com/tzh/spring/security/server/service/impl/TbPermissionServiceImpl.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570902123747" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570902348224" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/spring-security-server/src/test/java/com.tzhh.spring.security.server.test" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud-feign/pom.xml" />
@@ -846,7 +772,7 @@
       <workItem from="1570861566674" duration="13389000" />
       <workItem from="1570886008653" duration="3835000" />
       <workItem from="1570890834721" duration="7606000" />
-      <workItem from="1570900515476" duration="1600000" />
+      <workItem from="1570900515476" duration="1844000" />
     </task>
     <task id="LOCAL-00001" summary="1013">
       <created>1570900593994</created>
@@ -862,7 +788,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570900653342</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1013">
+      <created>1570902149449</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570902149449</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -892,7 +825,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84968000" />
+    <option name="totallyTimeSpent" value="85212000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -905,7 +838,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1426" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18570288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
