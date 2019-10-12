@@ -1,0 +1,12 @@
+com\tzh\spring\cloud\advertisement\dto\ResponseResult.class
+com\tzh\spring\cloud\advertisement\service\impl\TbContentServiceImpl.class
+com\tzh\spring\cloud\advertisement\domain\TbContentCategory.class
+com\tzh\spring\cloud\advertisement\service\TbContentCategoryService.class
+com\tzh\spring\cloud\advertisement\service\impl\TbContentCategoryServiceImpl.class
+com\tzh\spring\cloud\advertisement\controller\TbContentController.class
+com\tzh\spring\cloud\advertisement\AdvertisementApplication.class
+com\tzh\spring\cloud\advertisement\mapper\TbContentCategoryMapper.class
+com\tzh\spring\cloud\advertisement\config\ResourceServerConfiguration.class
+com\tzh\spring\cloud\advertisement\mapper\TbContentMapper.class
+com\tzh\spring\cloud\advertisement\domain\TbContent.class
+com\tzh\spring\cloud\advertisement\service\TbContentService.class

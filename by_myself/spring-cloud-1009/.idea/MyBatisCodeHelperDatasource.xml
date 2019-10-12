@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MyBatisCodeHelperDatasource">
+    <option name="projectProfile">
+      <ProjectProfile>
+        <option name="addSerializeUid" value="true" />
+        <option name="generateService" value="true" />
+        <option name="generateServiceInterface" value="true" />
+        <option name="javaMapperPackage" value="com.tzh.spring.cloud.advertisement.mapper" />
+        <option name="javaMapperPath" value="$PROJECT_DIR$/spring-cloud-advertisement/src/main/java" />
+        <option name="javaModelPackage" value="com.tzh.spring.cloud.advertisement.domain" />
+        <option name="javaModelPath" value="$PROJECT_DIR$/spring-cloud-advertisement/src/main/java" />
+        <option name="lastDatabaseCrudChooseModuleName" value="spring-cloud-advertisement" />
+        <option name="moduleNameToPackageAndPathMap">
+          <map>
+            <entry key="spring-cloud-advertisement">
+              <value>
+                <UserPackageAndPathInfoByModule>
+                  <option name="javaMapperPackage" value="com.tzh.spring.cloud.advertisement.mapper" />
+                  <option name="javaMapperPath" value="$PROJECT_DIR$/spring-cloud-advertisement/src/main/java" />
+                  <option name="javaModelPacakge" value="com.tzh.spring.cloud.advertisement.domain" />
+                  <option name="javaModelPath" value="$PROJECT_DIR$/spring-cloud-advertisement/src/main/java" />
+                  <option name="javaServiceInterfacePackage" value="com.tzh.spring.cloud.advertisement.service" />
+                  <option name="javaServiceInterfacePath" value="$PROJECT_DIR$/spring-cloud-advertisement/src/main/java" />
+                  <option name="javaServicePackage" value="com.tzh.spring.cloud.advertisement.service.impl" />
+                  <option name="javaServicePath" value="$PROJECT_DIR$/spring-cloud-advertisement/src/main/java" />
+                  <option name="xmlPackage" value="mapper" />
+                  <option name="xmlPath" value="$PROJECT_DIR$/spring-cloud-advertisement/src/main/resources" />
+                </UserPackageAndPathInfoByModule>
+              </value>
+            </entry>
+            <entry key="spring-security-server">
+              <value>
+                <UserPackageAndPathInfoByModule>
+                  <option name="javaMapperPackage" value="com.tzh.spring.security.server.mapper" />
+                  <option name="javaMapperPath" value="$PROJECT_DIR$/spring-security-server/src/mian/java" />
+                  <option name="javaModelPacakge" value="com.tzh.spring.security.server.domain" />
+                  <option name="javaModelPath" value="$PROJECT_DIR$/spring-security-server/src/mian/java" />
+                  <option name="javaServiceInterfacePackage" value="com.tzhh.spring.security.server.service" />
+                  <option name="javaServiceInterfacePath" value="$PROJECT_DIR$/spring-security-server/src/mian/java" />
+                  <option name="javaServicePackage" value="com.tzh.spring.security.server.service.impl" />
+                  <option name="javaServicePath" value="$PROJECT_DIR$/spring-security-server/src/mian/java" />
+                  <option name="xmlPackage" value="mapper" />
+                  <option name="xmlPath" value="$PROJECT_DIR$/spring-security-server/src/mian/resources" />
+                </UserPackageAndPathInfoByModule>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="tableGenerateConfigs">
+          <map>
+            <entry key="estar:tb_permission">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="id" />
+                  <option name="javaModelName" value="TbPermission" />
+                  <option name="moduleName" value="spring-security-server" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="estar:tb_role">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="id" />
+                  <option name="javaModelName" value="TbRole" />
+                  <option name="moduleName" value="spring-security-server" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="estar:tb_user">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="id" />
+                  <option name="javaModelName" value="TbUser" />
+                  <option name="moduleName" value="spring-security-server" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="security_resource:tb_content">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="id" />
+                  <option name="javaModelName" value="TbContent" />
+                  <option name="moduleName" value="spring-cloud-advertisement" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="security_resource:tb_content_category">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="id" />
+                  <option name="javaModelName" value="TbContentCategory" />
+                  <option name="moduleName" value="spring-cloud-advertisement" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="useLomBokOnModel" value="true" />
+        <option name="userMybatisPlus" value="true" />
+        <option name="xmlMapperPackage" value="mapper" />
+        <option name="xmlMapperPath" value="$PROJECT_DIR$/spring-cloud-advertisement/src/main/resources" />
+      </ProjectProfile>
+    </option>
+  </component>
+</project>

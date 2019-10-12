@@ -1,0 +1,4 @@
+com\tzhh\hello\spring\cloud\zuul\filter\LoginFilter.class
+com\tzhh\hello\spring\cloud\zuul\provider\WebAdminFeignForbackProvider$1.class
+com\tzhh\hello\spring\cloud\zuul\provider\WebAdminFeignForbackProvider.class
+com\tzhh\hello\spring\cloud\zuul\ZuulApplication.class
