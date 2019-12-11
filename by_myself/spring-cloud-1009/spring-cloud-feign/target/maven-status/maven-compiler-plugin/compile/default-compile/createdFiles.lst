@@ -1,0 +1,5 @@
+com\tzh\spring\cloud\feign\config\EnableHystrixDashboardConfiguration.class
+com\tzh\spring\cloud\feign\service\AdminService.class
+com\tzh\spring\cloud\feign\FeignApplication.class
+com\tzh\spring\cloud\feign\service\hystrix\AdminServiceHytrix.class
+com\tzh\spring\cloud\feign\controller\AdminController.class
